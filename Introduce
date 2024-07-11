@@ -1,0 +1,4 @@
+Data Stream Mining (also known as stream learning) is the process of extracting knowledge structures from continuous, rapid data records. 
+A data stream is an ordered sequence of instances that in many applications of data stream mining can be read only once or a small number 
+of times using limited computing and storage capabilities.
+
